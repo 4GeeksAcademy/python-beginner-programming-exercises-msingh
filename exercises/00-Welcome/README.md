@@ -4,11 +4,11 @@ intro: "https://www.youtube.com/watch?v=amyDNhZwGJQ"
 
 # Welcome to the Python Beginner Course!
 
-We are very excited to have you here! 🎉 😂
+We are super excited to have you here! 🎉 😂
 
 ## 💬 Fundamentals:
 
-During this course, you will be learning the following concepts:
+During this course, you will be learning the following concepts in python:
 
 1. How to create and call functions.
 
@@ -34,7 +34,7 @@ Please click on the `Next →` button on the top right to proceed to the first c
 
 ## Contributors:
 
-Thanks to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
+Thanks to some of these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
 1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribution: (coder) 💻, (idea) 🤔, (build-tests) ⚠️, (pull-request-review) 🤓, (build-tutorial) ✅, (documentation) 📖
 
